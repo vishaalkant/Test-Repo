@@ -7,7 +7,7 @@
          point="org.eclipse.core.runtime.applications">
       <application>
          <run
-               class="com.portware.eclipse.portwaretaskview.Application">
+               class="com.portware.internaltools.portwaretaskview.ui.eclipse.Application">
          </run>
       </application>
    </extension>
@@ -15,7 +15,7 @@
          point="org.eclipse.ui.perspectives">
       <perspective
             name="RCP Perspective"
-            class="com.portware.eclipse.portwaretaskview.Perspective"
+            class="com.portware.internaltools.portwaretaskview.ui.eclipse.Perspective"
             id="PortwareTaskView.perspective">
       </perspective>
    </extension>

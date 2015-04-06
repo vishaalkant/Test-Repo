@@ -1,4 +1,4 @@
-package com.portware.eclipse.portwaretaskview;
+package com.portware.internaltools.portwaretaskview.ui.eclipse;
 
 import org.eclipse.ui.application.IWorkbenchWindowConfigurer;
 import org.eclipse.ui.application.WorkbenchAdvisor;

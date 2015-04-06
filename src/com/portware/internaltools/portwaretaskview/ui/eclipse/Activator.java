@@ -1,4 +1,4 @@
-package portwaretaskview;
+package com.portware.internaltools.portwaretaskview.ui.eclipse;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;

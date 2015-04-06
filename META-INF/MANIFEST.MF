@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: PortwareTaskView
 Bundle-SymbolicName: PortwareTaskView;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: portwaretaskview.Activator
+Bundle-Activator: com.portware.internaltools.portwaretaskview.ui.eclipse.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7

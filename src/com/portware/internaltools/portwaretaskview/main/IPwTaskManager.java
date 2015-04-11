@@ -11,7 +11,7 @@ import com.portware.internaltools.portwaretaskview.data.PwUser;
  * @author vishaal kant
  *
  */
-public interface IPortwareTaskManager {
+public interface IPwTaskManager {
 	public Set<PwTask> getTasks(String projectId) throws Exception;
 	public Set<PwTask> getTasks(String projectId, PwUser user) throws Exception;
 	public Set<PwTask> getTasks(String projectId, PwUser user, PwTaskStatus status) throws Exception;

@@ -1,4 +1,4 @@
-package com.portware.internaltools.portwaretaskview.ui.eclipse;
+package com.vishaal.internaltools.taskmanager.ui.eclipse;
 
 import org.eclipse.swt.graphics.Point;
 import org.eclipse.ui.application.ActionBarAdvisor;

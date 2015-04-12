@@ -1,8 +1,8 @@
-package com.portware.internaltools.portwaretaskview.main;
+package com.vishaal.internaltools.taskmanager.main;
 
 import java.util.Set;
 
-import com.portware.internaltools.portwaretaskview.data.PwProject;
+import com.vishaal.internaltools.taskmanager.data.PwProject;
 
 /**
  * 

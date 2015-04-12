@@ -1,10 +1,10 @@
-package com.portware.internaltools.portwaretaskview.main;
+package com.vishaal.internaltools.taskmanager.main;
 
 import java.util.Set;
 
-import com.portware.internaltools.portwaretaskview.data.PwTask;
-import com.portware.internaltools.portwaretaskview.data.PwTaskStatus;
-import com.portware.internaltools.portwaretaskview.data.PwUser;
+import com.vishaal.internaltools.taskmanager.data.PwTask;
+import com.vishaal.internaltools.taskmanager.data.PwTaskStatus;
+import com.vishaal.internaltools.taskmanager.data.PwUser;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package com.portware.internaltools.portwaretaskview.ui.eclipse;
+package com.vishaal.internaltools.taskmanager.ui.eclipse;
 
 import org.eclipse.jface.action.IMenuManager;
 import org.eclipse.ui.IWorkbenchWindow;
